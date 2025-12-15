@@ -1,4 +1,4 @@
-package org.endava.springstartherepart2.chapter8.controllers;
+package org.endava.springstartherepart2.chapter8.ex1.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
